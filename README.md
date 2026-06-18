@@ -25,6 +25,12 @@ features from a D2C e-commerce snapshot dated 2025-09-30.
 ```bash
 pip install -r requirements.txt
 ```
+This notebook is developed in Google Colab.
+
+To run this notebook:
+
+If running in Google Colab: Mount your drive and update BASE_PATH to your dataset location
+If running locally: Comment out the drive.mount() cell and update BASE_PATH to your local dataset path
 
 ---
 
